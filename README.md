@@ -32,6 +32,10 @@ new創建帳號初始金額 <br> <br>
 # 小提示 
 開發者可以使用[prefix]give <ID> <多少錢> <br> <br>
 
+# 支援區
+開發者Discord支援區 : <br>
+https://discord.gg/3S5BgMTx47 <br> <br>
+    
 # 版權
 > 開發者已獲得源代碼作者修改 | 發布許可<br> 請勿修改 | 公開
 
