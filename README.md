@@ -23,11 +23,11 @@ min每次簽到最低獲得數 <br> <br>
     
 new創建帳號初始金額 <br> <br>
 
-2. pip install discord <br> <br>
+> 2. pip install discord <br> <br>
 
-3. python bot.py <br> <br>
+> 3. python bot.py <br> <br>
 
-4. done! <br> <br>
+> 4. done! <br> <br>
 #版權
 > 開發者已獲得源代碼作者發布許可 , 請勿修改 | 公開 <br>
 源代碼作者 : <br>
