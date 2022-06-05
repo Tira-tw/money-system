@@ -49,7 +49,7 @@ async def on_message(message):
         await message.delete()
         embed = discord.Embed(title="menu", description=f"prefix是{前輟}", color=0x04f108)
         embed.add_field(name=f"{前輟}help", value="指令功能查詢")
-        embed.add_field(name=f"{前輟}new", value="創建")
+        embed.add_field(name=f"{前輟}new", value="創建帳號")
         embed.add_field(name=f"{前輟}sign", value="每日簽到(冷卻時間的計算為每天08:00重製)")
         embed.add_field(name=f"{前輟}me", value="查看您有多少錢")
         embed.add_field(name=f"{前輟}money <id>", value="查看別的用戶有多少金錢")
