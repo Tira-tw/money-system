@@ -42,7 +42,7 @@ Tira-tw開發者已獲得源代碼作者修改 | 發布許可
 https://github.com/HansHans135
 
 源代碼 : 
-https://github.com/HansHans135/across_guild
+https://github.com/HansHans135/sign
 
 Tira-tw開發者 : 
 https://github.com/Tira-tw
