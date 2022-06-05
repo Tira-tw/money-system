@@ -1,0 +1,50 @@
+1.修改config.json的資料 :
+owner_id
+prefix
+token
+max
+min
+new
+    
+owner_id填你的id
+    
+prefix填你的前綴
+    
+token就填token
+    
+max每次簽到最高獲得數
+    
+min每次簽到最低獲得數
+    
+new創建帳號初始金額
+
+2. pip install discord
+
+3. python bot.py
+
+4. done!
+
+
+
+小提示 : 
+開發者可以使用[prefix]give <ID> <多少錢> 
+
+
+
+
+
+☆○o｡..:･注意･:..｡o○☆
+
+Tira-tw開發者已獲得源代碼作者發布許可
+請勿修改 | 公開
+
+源代碼作者 : 
+https://github.com/HansHans135
+
+源代碼 : 
+https://github.com/HansHans135/across_guild
+
+Tira-tw開發者 : 
+https://github.com/Tira-tw
+
+☆○o｡..:･注意･:..｡o○☆

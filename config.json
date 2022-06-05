@@ -1,0 +1,8 @@
+{
+    "owner_id":"your-id",
+    "prefix":".",
+    "token":"your-bot-token",
+    "max":"26",
+    "min":"10",
+    "new":"25"
+}
