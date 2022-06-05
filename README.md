@@ -43,7 +43,7 @@ https://discord.gg/3S5BgMTx47 <br> <br>
 https://github.com/HansHans135 <br>
 
 源代碼 : <br>
-https://github.com/HansHans135/across_guild <br>
+https://github.com/HansHans135/sign <br>
 
 開發者 : <br>
 https://github.com/Tira-tw
