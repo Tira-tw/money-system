@@ -33,7 +33,7 @@ new創建帳號初始金額 <br> <br>
 開發者可以使用[prefix]give <ID> <多少錢> <br> <br>
 
 # 版權
-> 開發者已獲得源代碼作者發布許可<br>> 請勿修改 | 公開
+> 開發者已獲得源代碼作者發布許可<br> 請勿修改 | 公開
 
 源代碼作者 : <br>
 https://github.com/HansHans135 <br>
@@ -41,5 +41,5 @@ https://github.com/HansHans135 <br>
 源代碼 : <br>
 https://github.com/HansHans135/across_guild <br>
 
-Tira-tw開發者 : <br>
+開發者 : <br>
 https://github.com/Tira-tw
