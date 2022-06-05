@@ -25,6 +25,8 @@ new創建帳號初始金額 <br> <br>
 
 > 2. pip install discord <br> <br>
 
+> 3. pip install <br> <br>
+
 > 3. python bot.py <br> <br>
 
 > 4. done! <br> <br>
