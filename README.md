@@ -29,6 +29,9 @@ new創建帳號初始金額 <br> <br>
 
 > 4. done! <br> <br>
 
+# 小提示 
+開發者可以使用[prefix]give <ID> <多少錢> <br> <br>
+
 # 版權
 > 開發者已獲得源代碼作者發布許可 , 請勿修改 | 公開 <br>
 源代碼作者 : <br>
@@ -39,10 +42,3 @@ https://github.com/HansHans135/across_guild <br>
 
 Tira-tw開發者 : <br>
 https://github.com/Tira-tw
-
-
-
-
-# 小提示 : 
-開發者可以使用[prefix]give <ID> <多少錢> 
-
