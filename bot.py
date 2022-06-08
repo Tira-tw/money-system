@@ -53,6 +53,7 @@ async def on_message(message):
         embed.add_field(name=f"{前輟}sign", value="每日簽到(冷卻時間的計算為每天08:00重製)")
         embed.add_field(name=f"{前輟}me", value="查看您有多少錢")
         embed.add_field(name=f"{前輟}money <id>", value="查看別的用戶有多少金錢")
+        embed.add_field(name=f"{PREFIX}set <id> <金額>", value="設定錢 [ 只限於DEV使用 ]")
         embed.add_field(name=f"{前輟}info", value="關於Bot")
         await message.channel.send(content=None, embed=embed)
 #info
