@@ -144,9 +144,9 @@ async def on_message(message):
                     json.dump(data,filt)
                 with open (f"money/{崁入一}.json",mode="r",encoding="utf-8") as filt:
                     data = json.load(filt)
-                await message.channel.send(f"已將id:`{崁入一}`設為`{data['money']}`元")
+                await message.channel.send(f"已預設<@{崁入一}>`{崁入一}`用戶金錢設定為`{data['money']}`元")
               else:
-                await message.channel.send(f"找不到關於id:`{崁入一}`的帳號")
+                await message.channel.send(f"找不到使用者<@{崁入一}>`{崁入一}`的帳號")
         else:
             await message.channel.send(f"{message.author.mention}你沒有權限")
             
