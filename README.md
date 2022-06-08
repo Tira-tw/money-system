@@ -32,7 +32,7 @@ new創建帳號初始金額 <br> <br>
 > 4. done! <br> <br>
 
 # 小提示 
-開發者可以使用[prefix]give <ID> <多少錢> <br> <br>
+開發者可以使用[prefix]set <ID> <多少錢> <br> <br>
 
 # 支援區
 開發者Discord支援區 : <br>
