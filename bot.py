@@ -120,8 +120,8 @@ async def on_message(message):
         with open (f"money/{tmp[1]}.json",mode="r",encoding="utf-8") as filt:
             data = json.load(filt)
         await message.channel.send(f"{message.author.mention}您好 , 您查詢的使用者<@{tmp[1]}> `{tmp[1]}`他現在有`{data['money']}`元")
-#給錢 , 只限於開發者
-    if message.content.startswith(f'{前輟}give'):
+#設定錢 , 只限於開發者
+    if message.content.startswith(f'{前輟}set'):
         if message.author.id == int(op_id):
           await message.delete()
           tmp = message.content.split(" ",2)
@@ -130,7 +130,7 @@ async def on_message(message):
           崁入二 = tmp[1]
           #亨哥0126 | 天然呆幻月#1314
           if len(tmp) == 1:
-            await message.channel.send(f"{前輟}give id 錢")
+            await message.channel.send(f"{前輟}set id 錢")
           else:
               filepath = f"money/{崁入一}.json"
               if os.path.isfile(filepath):
